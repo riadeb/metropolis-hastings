@@ -1,2 +1,2 @@
-# metropolis-hastings
-A quick description of Metropolis Hastings algorithm
+# Metropolis Hastings algorithm
+A proof + implementation of the algorithm
